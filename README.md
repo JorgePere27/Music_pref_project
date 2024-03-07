@@ -12,7 +12,7 @@ En este proyecto se comparan las preferencias de las ciudades de Springfield y S
 
 ## Descripción de los datos
 
-Los datos se almacenran en el archivo 	`music_project_en.csv`
+Los datos se almacenan en el archivo 	`music_project_en.csv`
 
 ### Descripción de las columnas:
 * `userID`- Id. del usuario.
